@@ -5,3 +5,7 @@ from .tweak import(
     TweakKagTransformer,
     get_rawX_y
 )
+
+from .plotting import(
+    my_dot_export
+)
